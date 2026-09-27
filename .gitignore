@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# PyInstaller / Flet Build Artifacts
+build/
+dist/
+*.spec
+
+# Python Caches & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Control & Diagnostic Files (optional/local)
+diagnostic.txt
+resolve.txt
+
+# Environment Keys
+.env
